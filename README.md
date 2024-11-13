@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Never Rojas Campos 👋
+# ![https://mouredev.com](https://https://www.grupocibernos.com/hs-fs/hubfs/ciberseguridad-feb.jpg?width=960&name=ciberseguridad-feb.jpg) Hola, mi nombre es Never Rojas Campos 👋
 ### Freelance full-stack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
