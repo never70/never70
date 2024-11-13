@@ -18,13 +18,13 @@ Actualmente, estoy desarrollando mis habilidades en ciberseguridad y programaci√
 </br>
 [LinkedIn](https://www.linkedin.com/in/never-rojas-campos-55a57023a/)
 
-## Algunos v√≠deos en YouTube:
+## Mis habilidades:
 
 <table style="width:100%">
 <tr>
 <td>
 <a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<img src="https://avplus.fi/app/uploads/2024/08/Microsoft-aiheuttaa-harmaita-hiuksia-Linux-kayttajille-uudella-paivityksellaan.png">
 </a>
 </td>
 <td>
