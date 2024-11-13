@@ -29,29 +29,29 @@ Actualmente, estoy desarrollando mis habilidades en ciberseguridad y programaciÃ
 </td>
 <td>
 <a href="https://youtu.be/3UCZltG8iCY">
-<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
+<img src="https://cibersafety.com/wp-content/uploads/2024/09/shutterstock_2026301150-1-1.jpg">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<img src="https://static.wixstatic.com/media/41b7e5_268899e86bfd4547a6ec3c36c7068b56~mv2.png/v1/fill/w_1000,h_563,al_c,q_90,usm_0.66_1.00_0.01/41b7e5_268899e86bfd4547a6ec3c36c7068b56~mv2.png">
 </a>
 </td>
 </tr>
 <tr>
 <td>
 <a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+<img src="https://www.starkcloud.com/hubfs/Ciberseguridad%20y%20Privacidad%20de%20Datos.webp">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/G0ga_YVQOaw">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+<img src="https://www.trantorinc.com/wp-content/uploads/2023/10/Performance-Battle-_-AWS-vs-Google-Cloud-vs-Azure-_-1000-x-500-_-Main.png">
 </a>
 </td>
 <td>
 <a href="https://youtu.be/NJacVZx2fv8">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*e49hYM--zINB1teDtozZoA.png">
 </a>
 </td>
 </tr>
