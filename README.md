@@ -4,8 +4,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
 Soy un Profesional en Administración de Redes y Comunicaciones, especializado en Virtualización y Seguridad Informática. Tengo sólidos conocimientos en Linux, Fortinet, Windows Server, telefonía IP, ciberseguridad, virtualización de servidores y tecnologías en la nube. Me destaco por mi capacidad para gestionar eficientemente los servicios que administro, así como por mis habilidades de comunicación, trabajo en equipo, adaptabilidad y resolución de problemas. 
 
